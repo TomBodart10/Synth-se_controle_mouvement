@@ -1,0 +1,35 @@
+\babel@toc {french}{}\relax 
+\contentsline {section}{\numberline {1}Introduction au contrôle du mouvement}{3}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Concepts}{3}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Technologie}{3}{subsection.1.2}%
+\contentsline {subsubsection}{\numberline {1.2.1}Contrôleur}{3}{subsubsection.1.2.1}%
+\contentsline {subsubsection}{\numberline {1.2.2}Actionneurs}{3}{subsubsection.1.2.2}%
+\contentsline {subsubsection}{\numberline {1.2.3}Capteurs}{3}{subsubsection.1.2.3}%
+\contentsline {subsection}{\numberline {1.3}Problèmes de contrôle}{4}{subsection.1.3}%
+\contentsline {subsubsection}{\numberline {1.3.1}Régulation de consigne}{4}{subsubsection.1.3.1}%
+\contentsline {subsubsection}{\numberline {1.3.2}Suivi de trajectoire}{4}{subsubsection.1.3.2}%
+\contentsline {subsection}{\numberline {1.4}Champs d'application}{4}{subsection.1.4}%
+\contentsline {section}{\numberline {2}Théorie du contrôle du mouvement}{5}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Représentation interne}{5}{subsection.2.1}%
+\contentsline {subsubsection}{\numberline {2.1.1}Introduction}{5}{subsubsection.2.1.1}%
+\contentsline {subsubsection}{\numberline {2.1.2}Représentation externe et représentation interne}{5}{subsubsection.2.1.2}%
+\contentsline {subsubsection}{\numberline {2.1.3}Équations d'état et de sortie}{6}{subsubsection.2.1.3}%
+\contentsline {subsubsection}{\numberline {2.1.4}Lien entre représentation interne et fonction de transfert}{7}{subsubsection.2.1.4}%
+\contentsline {subsubsection}{\numberline {2.1.5}Comparaison entre théorie classique et théorie moderne}{8}{subsubsection.2.1.5}%
+\contentsline {subsubsection}{\numberline {2.1.6}Retards de transport}{9}{subsubsection.2.1.6}%
+\contentsline {subsubsection}{\numberline {2.1.7}Propriétés de la représentation interne}{9}{subsubsection.2.1.7}%
+\contentsline {subsubsection}{\numberline {2.1.8}États récupérables}{9}{subsubsection.2.1.8}%
+\contentsline {subsection}{\numberline {2.2}Régulation de consignes}{9}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}Principe de la régulation}{9}{subsubsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.2}Retour d'état}{9}{subsubsection.2.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.3}Assignation de pôles}{9}{subsubsection.2.2.3}%
+\contentsline {subsubsection}{\numberline {2.2.4}Calcul des références}{9}{subsubsection.2.2.4}%
+\contentsline {subsubsection}{\numberline {2.2.5}Variables d'intégration}{9}{subsubsection.2.2.5}%
+\contentsline {subsubsection}{\numberline {2.2.6}Cas de plusieurs actionnements}{9}{subsubsection.2.2.6}%
+\contentsline {subsubsection}{\numberline {2.2.7}Régulation linéaire optimale quadratique}{9}{subsubsection.2.2.7}%
+\contentsline {subsection}{\numberline {2.3}Suivi de trajectoires}{9}{subsection.2.3}%
+\contentsline {subsubsection}{\numberline {2.3.1}Définition du problème}{9}{subsubsection.2.3.1}%
+\contentsline {subsubsection}{\numberline {2.3.2}Schéma général}{9}{subsubsection.2.3.2}%
+\contentsline {subsubsection}{\numberline {2.3.3}Modèle inverse}{9}{subsubsection.2.3.3}%
+\contentsline {subsubsection}{\numberline {2.3.4}Variables d'intégration}{9}{subsubsection.2.3.4}%
+\contentsline {subsubsection}{\numberline {2.3.5}Génération de trajectoires}{9}{subsubsection.2.3.5}%
