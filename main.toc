@@ -16,7 +16,7 @@
 \contentsline {subsubsection}{\numberline {2.1.3}Équations d'état et de sortie}{6}{subsubsection.2.1.3}%
 \contentsline {subsubsection}{\numberline {2.1.4}Lien entre représentation interne et fonction de transfert}{7}{subsubsection.2.1.4}%
 \contentsline {subsubsection}{\numberline {2.1.5}Comparaison entre théorie classique et théorie moderne}{8}{subsubsection.2.1.5}%
-\contentsline {subsubsection}{\numberline {2.1.6}Retards de transport}{9}{subsubsection.2.1.6}%
+\contentsline {subsubsection}{\numberline {2.1.6}Exercice1}{9}{subsubsection.2.1.6}%
 \contentsline {subsubsection}{\numberline {2.1.7}Propriétés de la représentation interne}{9}{subsubsection.2.1.7}%
 \contentsline {subsubsection}{\numberline {2.1.8}États récupérables}{9}{subsubsection.2.1.8}%
 \contentsline {subsection}{\numberline {2.2}Régulation de consignes}{9}{subsection.2.2}%
